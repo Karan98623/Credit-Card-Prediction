@@ -1,0 +1,6 @@
+READ ME
+
+--- Load the dataset creditcard.csv on jupyter notebook
+--- Proceed with analysing the data and EDA data analysis"
+--- Balance data and get test train split
+--- logistic regression and model validation
